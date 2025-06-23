@@ -26,3 +26,7 @@ This project detects thyroid disease using an ensemble of machine learning model
 
 ## 📦 Requirements
 Install all dependencies using:
+'requirements.txt'
+
+## Cite:
+N. N. Reddy, S. Maddula, P. Deepika, R. Sanjana, N. Lingadally, and S. Thoutireddy, "Enhancing thyroid cancer diagnosis with ensemble machine learning techniques," in Recent Trends in VLSI and Semiconductor Packaging, 1st ed., CRC Press, 2025, pp. 421–430. doi: 10.1201/9781003616399-54.
